@@ -1,6 +1,7 @@
 
 // This program generates a csv file with data on a simulated state of charge (SOC)
 // estimate for a vehicle. It also prints the data in the console (output).
+// Contributors: Matias Smitih, Andrey Yakymovych, and Ayush Saha
 
 
 #include <stdio.h>
